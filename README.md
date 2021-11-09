@@ -1,16 +1,19 @@
 # tik_clone
 
-A new Flutter project.
+This is a project I made for fun.
+Now it only has less than 3 days of work.
 
-## Getting Started
+This app only works in debug mode.
 
-This project is a starting point for a Flutter application.
+## Whats works?
 
-A few resources to get you started if this is your first Flutter project:
+* It has firebase auth, you still can watch the videos from the feed without login.
+* You can register and login new users.
+* You open and watch videos from other users profiles.
+* You can upload your own videos.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## This is made with a free Firebase plan
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I may run out of quota anytime, if that happens the videos won't be able to load.
+
+
